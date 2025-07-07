@@ -1,0 +1,20 @@
+{
+  "name": "newtranslation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node service/translationManger.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.842.0",
+    "@aws-sdk/client-translate": "^3.840.0",
+    "aws-sdk": "^2.1692.0",
+    "dotenv": "^17.0.1",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
