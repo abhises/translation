@@ -1,0 +1,1 @@
+{"timestamp":"2025-07-15T08:32:24.564Z","flag":"csv_uploaded","action":"convertJsonToAwsCsvAndUpload","message":"CSV file uploaded to S3","critical":true,"data":{"bucket":"abhisesbucket","key":"costume_terminology.csv"},"retention":"unknown","PCI_compliance":false,"description":"⚠️ MISSING LOG ROUTE DEFINITION","category":"unknown"}

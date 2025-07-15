@@ -1,0 +1,1 @@
+{"timestamp":"2025-07-15T08:32:25.450Z","flag":"dictionary_imported","action":"importDictionaryToAwsTranslate","message":"Custom terminology imported successfully","critical":true,"data":{"targetLang":"fr","name":"my-translate-overrides"},"retention":"unknown","PCI_compliance":false,"description":"⚠️ MISSING LOG ROUTE DEFINITION","category":"unknown"}
